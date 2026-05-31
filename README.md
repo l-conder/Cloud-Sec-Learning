@@ -1,2 +1,2 @@
 # Cloud Security Learning
-This Repository will host anything related to my learning journey. no to uh
+This Repository will host everything related to my learning journey, notes, flash cards, projects.
